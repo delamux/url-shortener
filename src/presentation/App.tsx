@@ -27,7 +27,7 @@ export default function App() {
   return (
     <Container maxWidth="sm">
       <Box sx={{ my: 4 }}>
-        <Typography variant="h3"  sx={{ mb: 2 }}>
+        <Typography variant="h3" sx={{ mb: 2 }}>
           Shortlify app
         </Typography>
         <ProTip />
