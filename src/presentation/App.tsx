@@ -27,8 +27,8 @@ export default function App() {
   return (
     <Container maxWidth="sm">
       <Box sx={{ my: 4 }}>
-        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
-          Material UI Vite.js example in TypeScript
+        <Typography variant="h3"  sx={{ mb: 2 }}>
+          Shortlify app
         </Typography>
         <ProTip />
         <Copyright />
